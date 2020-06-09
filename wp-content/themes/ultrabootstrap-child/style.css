@@ -1,0 +1,13 @@
+/*
+Theme Name:   ultrabootstrap-child
+Theme URI: https://phantomthemes.com/items/ultrabootstrap-premium-wordpress-theme/
+Author: phantomthemes
+Author URI: https://phantomthemes.com
+Description:  Description de mon thème enfant
+Author:       Lysa
+Template:     ultrabootstrap
+Version:      1.0.0
+*/
+header .navbar-form .btn {
+    background: rgb(0, 0, 0);
+}
